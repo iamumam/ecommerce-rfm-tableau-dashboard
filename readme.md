@@ -3,7 +3,7 @@
 An end-to-end analysis of online store transactions: data cleaning and RFM
 segmentation in Excel, and an interactive sales dashboard in Tableau.
 
-![/Users/user/Documents/Career/Code/data_analyst/project/ecommerce-rfm-tableau-dashboard/images/Dashboard.png]
+![Dashboard](images/Dashboard.png)
 
 🔗 **Live dashboard:** https://public.tableau.com/app/profile/muhammad.umam1959/viz/USA-transactions-dashboard/Dashboard1?publish=yes
 
@@ -28,9 +28,9 @@ segmentation in Excel, and an interactive sales dashboard in Tableau.
 ## Methodology
 
 ### 1. Data cleaning
-- [Standardized mixed date formats]
-- [Converted decimal commas to numeric values]
-- [Handled missing values and duplicates]
+- Standardized mixed date formats in Transaction_Date
+- Converted decimal commas to numeric values
+- Handled missing values and duplicates
 
 ### 2. Derived columns
 | Column | Definition |
@@ -80,7 +80,6 @@ mapped to 11 segments based on their R and F scores:
 - Total gross sale is **4.67M** with **4.36M** revenue after discounts.
 - Sales peak in **Nov–Dec** (~520K per month) after dips in Feb, May, and Sep.
 - **Recent Customers** contribute the most gross sale (~1.05M).
-- [Top states: California, Illinois, New York]
 - **Recommendation:** run re-engagement campaigns for "About to Sleep" and
   "Can't Lose Them", which still hold high sales value.
 
@@ -101,4 +100,4 @@ mapped to 11 segments based on their R and F scores:
 
 ## Author
 **Mohamad Khotibul Umam**
-GitHub: [github.com/iamumam](https://github.com/iamumam) · LinkedIn: [link] · Email: [email]
+GitHub: [github.com/iamumam](https://github.com/iamumam) · LinkedIn: [linkedin.com/muhammad-umam](https://www.linkedin.com/in/muhammad-umam/) · Email: [umammuhammad22@gmail.com](umammuhamad22@gmail.com)
