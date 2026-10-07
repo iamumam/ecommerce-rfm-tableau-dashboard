@@ -5,7 +5,7 @@ segmentation in Excel, and an interactive sales dashboard in Tableau.
 
 ![Dashboard](images/Dashboard.png)
 
-🔗 **Live dashboard:** https://public.tableau.com/app/profile/muhammad.umam1959/viz/USA-transactions-dashboard/Dashboard1?publish=yes
+🔗 **Live dashboard:** [live-dashboard](https://public.tableau.com/app/profile/muhammad.umam1959/viz/USA-transactions-dashboard/Dashboard1?publish=yes)
 
 ## Objective
 - Track sales performance over time and by location.
@@ -13,7 +13,7 @@ segmentation in Excel, and an interactive sales dashboard in Tableau.
 - Provide an interactive dashboard where the KPI, segment, and month can be switched.
 
 ## Dataset
-- Source: Online Shopping Dataset Link: https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset?select=file.csv
+- Source: Online Shopping Dataset Link: [online-shopping-dataset](https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset?select=file.csv)
 - Period: 2019-01-01 – 2019-12-31
 - Size: 52924 transaction rows, 1469 customers
 - Original fields: CustomerID, Gender, Location, Tenure_Months, Transaction_ID,
